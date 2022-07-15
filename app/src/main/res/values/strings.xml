@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="item">Item</string>
+    <string name="Item">Item</string>
+    <string name="item1">Item</string>
+    <string name="please_select_location">Please select location</string>
+    <string-array name="cities">
+        <item>Bangalore</item>
+        <item>Mumbai</item>
+        <item>Kochi</item>
+        <item>Hubli</item>
+        <item>Bangalore</item>
+        <item>Bangalore</item>
+        <item>Bangalore</item>
+        <item>Bangalore</item>
+        <item>Bangalore</item>
+        <item>Bangalore</item>
+        <item>Bangalore</item>
+        <item>Bangalore</item>
+        <item>Bangalore</item>
+        <item>Bangalore</item>
+        <item>Bangalore</item>
+        <item>Bangalore</item>
+    </string-array>
+</resources>
